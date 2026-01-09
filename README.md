@@ -14,7 +14,10 @@ A professional Task Management application built with **React.js**. This app all
 - **Notifications:** React-Toastify
 - **Routing:** React Router DOM
 
-## 📦 Installation
-1. Clone the repo: `git clone `
+## 📦 Installation & Setup
+
+1. **Clone the repo:**
+   ```bash
+   git clone [https://github.com/Yuktamahajan1999/task-tracker-react.git](https://github.com/Yuktamahajan1999/task-tracker-react.git)
 2. Install dependencies: `npm install`
 3. Run the app: `npm start`
